@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Equipo No.14 de Ingeniería Web - Tarea No.2</title>
+    <title>Equipo No.14 de Ingeniería Web - Tarea No.3</title>
 </head>
 <body>
     <header>
@@ -20,9 +20,10 @@
         </ul>
     </section>
     </main>
-
     <footer>
         © copyright 2025. Linette Bonilla. Nayim Rodriguez. Ingenieria Web.
     </footer>
+
 </body>
 </html>
+
