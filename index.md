@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Equipo No.14 de Ingeniería Web - Tarea No.3</title>
+<title>Equipo No.14 de Ingeniería Web - Tarea No.3</title>
 </head>
 <body>
     <header>
@@ -26,4 +26,5 @@
 
 </body>
 </html>
+
 
